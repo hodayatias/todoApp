@@ -2,3 +2,5 @@ shower
 study
 eat
 dance
+clean
+play
