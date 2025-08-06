@@ -1,5 +1,4 @@
 shower
 study
-run
-
 eat
+dance
