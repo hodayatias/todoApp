@@ -1,5 +1,5 @@
-clean
+shower
 study
-play
-write
-hw
+run
+
+eat
